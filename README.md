@@ -1,2 +1,2 @@
 # wbf
-Constant dropping wears the stone. ss
+Constant dropping wears the stone. 
